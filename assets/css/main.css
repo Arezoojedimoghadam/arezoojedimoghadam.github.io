@@ -8,15 +8,15 @@
 */
 @font-face {
     font-family: Yekan;
-    src: url('webfonts/Yekan.eot');
-    src: local('Yekan'),url('webfonts/Yekan.woff') format('woff'),url('webfonts/Yekan.ttf') format('truetype');
+    src: url('../webfonts/Yekan.eot');
+    src: local('Yekan'),url('../webfonts/Yekan.woff') format('woff'),url('../webfonts/Yekan.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: yekan;
-    src: url('webfonts/Yekan.eot');
-    src: local('Yekan'),url('webfonts/Yekan.woff') format('woff'),url('webfonts/Yekan.ttf') format('truetype');
+    src: url('../webfonts/Yekan.eot');
+    src: local('Yekan'),url('../webfonts/Yekan.woff') format('woff'),url('../webfonts/Yekan.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
@@ -100,7 +100,7 @@ input, select, textarea {
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Yekan', 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 	}
 
